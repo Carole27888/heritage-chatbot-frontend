@@ -1,4 +1,11 @@
 <?php
+/**
+ * Plugin Name: Heritage Chatbot
+ * Description: Floating AI chatbot for Heritage Insurance.
+ * Version: 1.0.0
+ * Author: Carole Mutemi
+ */
+
 
 
 if ( ! defined( 'ABSPATH' ) ) exit;
